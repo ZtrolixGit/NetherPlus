@@ -1,0 +1,45 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "NetherPlusItem",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_plus_item"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.nether_plus_item.name": "Nether Plus Item"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "nether",
+    "modName": "Nether+",
+    "version": "1.0.0",
+    "description": "Enhance your Nether adventure with new features, creatures, and challenges in this Minecraft mod.",
+    "author": "Ztrolix",
+    "websiteURL": "https://modrinth.com/project/netherplus",
+    "license": "Apache License version 2.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "nether",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.ztrolix.netherplus",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
